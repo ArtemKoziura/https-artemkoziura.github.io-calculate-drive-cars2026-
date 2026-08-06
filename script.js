@@ -423,7 +423,7 @@ const ADMIN_PASSWORD = 'DriveCars2026';
 const DEFAULT_SETTINGS = Object.freeze({
   usaMinProfit: 2675,
   usaProfitPercent: 15,
-  euMinProfit: 1675,
+  euMinProfit: 2075,
   euProfitPercent: 15,
   seaFirstPercent: 50,
   usaLandExtra: 200,
