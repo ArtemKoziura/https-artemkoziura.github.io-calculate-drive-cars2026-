@@ -422,9 +422,9 @@ function getAuctionAmerica(carPrise) {
 const ADMIN_PASSWORD = 'ArtemKoziura';
 const DEFAULT_SETTINGS = Object.freeze({
   usaMinProfit: 2675,
-  usaProfitPercent: 15,
+  usaProfitPercent: 20,
   euMinProfit: 2075,
-  euProfitPercent: 15,
+  euProfitPercent: 20,
   seaFirstPercent: 50,
   usaLandExtra: 200,
   seaExtra: 200,
