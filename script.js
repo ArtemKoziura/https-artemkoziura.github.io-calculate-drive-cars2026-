@@ -419,7 +419,7 @@ function getAuctionAmerica(carPrise) {
     return auctionFee[0] + auctionFee[1] + 10 + 50 + 69;
 }
 
-const ADMIN_PASSWORD = 'DriveCars2026';
+const ADMIN_PASSWORD = 'ArtemKoziura';
 const DEFAULT_SETTINGS = Object.freeze({
   usaMinProfit: 2675,
   usaProfitPercent: 15,
